@@ -1,0 +1,7 @@
+com\example\demo\DemoApplication.class
+com\example\demo\controller\CategoryController.class
+com\example\demo\reponsitory\CategoryRepository.class
+com\example\demo\controller\JobController.class
+com\example\demo\entity\Category.class
+com\example\demo\reponsitory\JobRepository.class
+com\example\demo\entity\Job.class
